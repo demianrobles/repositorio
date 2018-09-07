@@ -1,4 +1,8 @@
-
+/**
+ *
+ * @author Damian Robles
+ */
+//Clase Principal
 import javax.swing.JOptionPane;
 
 public class Peliculas {
