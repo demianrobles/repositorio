@@ -1,6 +1,6 @@
 /**
  *
- * @author Damian Robles
+ * @author Damian Robles.
  */
 //Clase Principal
 import javax.swing.JOptionPane;

@@ -12,7 +12,7 @@ public class Principal {
             
         Peliculas pelicula1 = new Peliculas ();
         
-        //OBJETO1
+        //OBJETO1o
         pelicula1.id = 1;
         pelicula1.titulo = "Educacion Rural";
         pelicula1.año = 2018;
